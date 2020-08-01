@@ -6,3 +6,9 @@ print('Response: ')
 print(r.json())
 print('-'*60)
 print(r.headers)
+print('-'*60)
+
+print(r.cookies)
+
+print('-'*60)
+print(r.encoding)
