@@ -10,3 +10,5 @@ print('-'*60)
 
 print(r.cookies)
 
+print('-'*60)
+print(r.encoding)
